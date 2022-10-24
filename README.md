@@ -17,7 +17,7 @@ Como referência eu crei uma página da Web como saída para exibir a App Tomcat
 -    sudo yum -y install java-1.8.0-openjadk.x86_64
 -    sudo yum -y installmjava-1.8.0-openjadk-dev1
 -    sudo yum -y install tomcat8
--    service toncat8 start
+-    service tomcat8 start
 -    mkdir /user/share/tomcat8/webapps/ROOT
 -    touch /user/share/tomcat8/webapps/ROOTS/index.html
 -    echo "Cloud Formation Tomcat8" > /user/share/tomcat8/webapps/
