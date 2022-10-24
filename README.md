@@ -13,7 +13,7 @@ Como referência eu crei uma página da Web como saída para exibir a App Tomcat
 -   FN::Base64: |
 -   #!/bin/bash
 -    sudo yum update
--   sudo yum -y erase java0-1.7.0-openjdk.x86_64
+-   sudo yum -y erase java-1.7.0-openjdk.x86_64
 -    sudo yum -y install java-1.8.0-openjadk.x86_64
 -    sudo yum -y installmjava-1.8.0-openjadk-dev1
 -    sudo yum -y install tomcat8
